@@ -18,13 +18,13 @@
 
 🛠️ **Tech Stack:**
 
-Front-end: HTML, CSS, JavaScript, React, Angular, Vue.js
-Back-end: Node.js, Python, Java SpringBoot
-Databases: MySQL, PostgreSQL, MongoDB
-Frameworks: Express.js, Django, Ruby on Rails
-Mobile: React Native, Flutter
-Version Control: Git/GitHub, Bitbucket
-Deployment & Hosting: AWS, Heroku, Netlify, Vercel, Hostinger
+- Front-end: HTML, CSS, JavaScript, React, Angular, Vue.js
+- Back-end: Node.js, Python, Java SpringBoot
+- Databases: MySQL, PostgreSQL, MongoDB
+- Frameworks: Express.js, Django, Ruby on Rails
+- Mobile: React Native, Flutter
+- Version Control: Git/GitHub, Bitbucket
+- Deployment & Hosting: AWS, Heroku, Netlify, Vercel, Hostinger
 ## 👩‍💻 What I Can Do for You:
 
 - **Web Development:** Whether you need a simple website, a dynamic web application, or an e-commerce platform, I can bring your vision to life.
