@@ -1,7 +1,7 @@
 # Pavankumar Maurya - Full Stack Developer
 <!-- 🌐 **Portfolio: [Your Website/Portfolio URL]** -->
-📧 **Contact: [pavankumarmaurya1999@gmail.com]**
-📱 **LinkedIn: [https://www.linkedin.com/in/pavankumarvm/]**
+📧 **Contact: pavankumarmaurya1999@gmail.com**
+📱 **LinkedIn: [pavankumarvm](https://www.linkedin.com/in/pavankumarvm/)**
 📌 **Location: Bangalore**
 
 👋 Hello! I'm Pavankumar Maurya, a passionate Full Stack Developer with a knack for turning ideas into digital realities. With over 3 years of experience in the field, I specialize in crafting web and mobile applications that are not only visually stunning but also highly functional and user-friendly.
